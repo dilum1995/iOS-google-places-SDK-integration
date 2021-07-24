@@ -1,0 +1,6 @@
+framework module Pods_PoCGooglePlacesAPI {
+  umbrella header "Pods-PoCGooglePlacesAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
